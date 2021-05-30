@@ -4,7 +4,7 @@ Mình là Trần Công Trí (Prox).Hiện tại mình là sinh viên K26 của [
 
 Gửi cảm xúc vào những dòng code 💕
 
-Đây là cái CV củ loz của tui: [Prox Never Die](captainprox.github.io) 📄
+Đây là cái CV củ loz của tui: [Prox Never Die](https://captainprox.github.io) 📄
 
 ## Đây là một số ngôn ngữ tui hay sử dụng 😎
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captainprox&layout=compact)](#)
@@ -17,7 +17,7 @@ Gửi cảm xúc vào những dòng code 💕
 
 [📘 Facebook](https://www.facebook.com/Prox.Error404)
 
-[🌍 Website](captainprox.github.io)
+[🌍 Website](https://captainprox.github.io)
 
 [✉️ Email](mailto:trancongtri008@gmail.com)
 
