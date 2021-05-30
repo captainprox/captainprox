@@ -10,10 +10,7 @@ Gửi cảm xúc vào những dòng code 💕
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captainprox&layout=compact)](#)
 
 ## Đây là cái đánh giá về độ vô dụng của tôi trên Github 😶
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=captainprox&show_icons=true&theme=default)
-
-## Thời gian của tuii trên Github ⏱
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=captainprox)](https://github.com/anuraghazra/github-readme-stats)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=captainprox&show_icons=true)
 
 ## Làm ơn hãy làm phiền tôi đi 🙃
 [📱 +84868009674](https://tel:+84868009674)
